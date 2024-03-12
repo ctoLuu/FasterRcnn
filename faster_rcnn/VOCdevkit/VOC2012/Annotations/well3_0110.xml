@@ -1,0 +1,26 @@
+<annotation>
+    <folder>label_txt</folder>
+    <filename>well3_0110.jpg</filename>
+    <path>/home/stoair/deep-learning-for-image-processing/pytorch_object_detection/faster_rcnn/VOCdevkit/VOC2012/label_txt/well3_0110.jpg</path>
+    <source>
+        <database>None</database>
+    </source>
+    <size>
+        <width>466</width>
+        <height>349</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>uncovered</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>114</xmin>
+            <ymin>94</ymin>
+            <xmax>441</xmax>
+            <ymax>327</ymax>
+        </bndbox>
+    </object>
+</annotation>

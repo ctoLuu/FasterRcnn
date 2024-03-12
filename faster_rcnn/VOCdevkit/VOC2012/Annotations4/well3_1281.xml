@@ -1,0 +1,21 @@
+<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>well3_1281</filename>
+		<size>
+			<width>461</width>
+			<height>461</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>lose</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>77</xmin>
+				<ymin>227</ymin>
+				<xmax>263</xmax>
+				<ymax>354</ymax>
+			</bndbox>
+		</object>
+	</annotation>
