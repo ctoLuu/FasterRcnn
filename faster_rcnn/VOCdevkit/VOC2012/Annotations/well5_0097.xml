@@ -1,0 +1,21 @@
+<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>well5_0097</filename>
+		<size>
+			<width>474</width>
+			<height>316</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>circle</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>4</xmin>
+				<ymin>20</ymin>
+				<xmax>471</xmax>
+				<ymax>204</ymax>
+			</bndbox>
+		</object>
+	</annotation>

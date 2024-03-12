@@ -1,0 +1,44 @@
+<annotation>
+    <folder>VOC</folder>
+    <filename>VOCdevkit\VOC2007/JPEGImages\47.jpg</filename>
+    <source>
+        <database>My Database</database>
+        <annotation>COCO</annotation>
+        <image>flickr</image>
+        <flickrid>NULL</flickrid>
+    </source>
+    <owner>
+        <flickrid>NULL</flickrid>
+        <name>company</name>
+    </owner>
+    <size>
+        <width>1080</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>broke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>492</ymin>
+            <xmax>192</xmax>
+            <ymax>710</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>broke</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>432</xmin>
+            <ymin>602</ymin>
+            <xmax>607</xmax>
+            <ymax>703</ymax>
+        </bndbox>
+    </object>
+</annotation>

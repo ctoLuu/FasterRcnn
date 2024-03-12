@@ -1,0 +1,7 @@
+{
+    "good": 1,
+    "broke": 2,
+    "lose": 3,
+    "uncovered": 4,
+    "circle": 5
+}

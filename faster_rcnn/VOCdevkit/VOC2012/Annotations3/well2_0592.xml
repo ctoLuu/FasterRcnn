@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>well2_0592.jpg</filename>
+		<size>
+			<width>500</width>
+			<height>1055</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>lose</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>182</xmin>
+				<ymin>475</ymin>
+				<xmax>435</xmax>
+				<ymax>708</ymax>
+			</bndbox>
+		</object>
+	</annotation>
