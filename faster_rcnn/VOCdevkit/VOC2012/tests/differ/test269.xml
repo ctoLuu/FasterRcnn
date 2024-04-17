@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>test269.jpg</filename>
+    <path>test-PascalVOC-export/Annotations/test269.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1080</width>
+        <height>1440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>341.9095477386935</xmin>
+        <ymin>574.0703701613537</ymin>
+        <xmax>936.4825592807789</xmax>
+        <ymax>847.8392327850189</ymax>
+    </bndbox>
+</object>
+</annotation>

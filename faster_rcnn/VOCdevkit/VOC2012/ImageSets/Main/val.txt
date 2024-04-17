@@ -151,7 +151,6 @@ well1_0085
 well1_0087
 well1_0089
 well1_0090
-well1_0092
 well1_0093
 well1_0094
 well1_0095
@@ -314,8 +313,6 @@ well1_0280
 well1_0281
 well1_0282
 well1_0221
-well2_0001
-well2_0036
 well2_0045
 well2_0046
 well2_0048

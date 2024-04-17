@@ -1,0 +1,92 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>test297.jpg</filename>
+    <path>test-PascalVOC-export/Annotations/test297.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1080</width>
+        <height>1440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>233.36683417085428</xmin>
+        <ymin>447.43720433220795</ymin>
+        <xmax>842.4120971066269</xmax>
+        <ymax>710.3517955990892</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>501.10552763819095</xmin>
+        <ymin>108.5427135678392</ymin>
+        <xmax>967.8391959798995</xmax>
+        <ymax>242.41206030150755</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>54.874445469535175</xmin>
+        <ymin>940.7035175879397</ymin>
+        <xmax>1080</xmax>
+        <ymax>1417.0855007459172</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>9.045226130653267</xmin>
+        <ymin>106.1306624676115</ymin>
+        <xmax>335.87943379004395</xmax>
+        <ymax>238.79396984924625</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>159.79906858511308</xmin>
+        <ymin>0</ymin>
+        <xmax>393.7688810262249</xmax>
+        <ymax>57.88944723618091</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>566.2311557788945</xmin>
+        <ymin>2.4120649021474563</ymin>
+        <xmax>780.9045594181847</xmax>
+        <ymax>45.82915032928314</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1.8090452261306533</xmin>
+        <ymin>320.8040385030622</ymin>
+        <xmax>250.25132989164572</xmax>
+        <ymax>852.6633901931533</ymax>
+    </bndbox>
+</object>
+</annotation>

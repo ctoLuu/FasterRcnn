@@ -1,0 +1,59 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>test76.jpg</filename>
+    <path>test-PascalVOC-export/Annotations/test76.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1080</width>
+        <height>944</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>broke</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>327.80600655615393</xmin>
+        <ymin>597.7085427135679</ymin>
+        <xmax>773.5579998799396</xmax>
+        <ymax>869.6817902991521</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>810.7038968166848</xmin>
+        <ymin>222.16416616775282</ymin>
+        <xmax>986.1594401756311</xmax>
+        <ymax>294.9011966571137</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>749.0573545554336</xmin>
+        <ymin>151.00838727328048</ymin>
+        <xmax>862.8663556531284</xmax>
+        <ymax>196.8643216080402</ymax>
+    </bndbox>
+</object><object>
+    <name>good</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>428.96953896816683</xmin>
+        <ymin>129.66165360493875</ymin>
+        <xmax>522.2297167647159</xmax>
+        <ymax>175.5175879396985</ymax>
+    </bndbox>
+</object>
+</annotation>

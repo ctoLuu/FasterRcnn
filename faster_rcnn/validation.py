@@ -116,7 +116,7 @@ def main(parser_data):
     print('Using %g dataloader workers' % nw)
 
     # load validation data set
-    val_dataset = VOCDataSet(VOC_root, "2012", data_transform["val"], "val.txt")
+    val_dataset = VOCDataSet(VOC_root, "2012", data_transform["val"], "newtest.txt")
     val_dataset_loader = torch.utils.data.DataLoader(val_dataset,
                                                      batch_size=1,
                                                      shuffle=False,
@@ -197,13 +197,13 @@ if __name__ == "__main__":
     parser.add_argument('--device', default='cuda', help='device')
 
     # 检测目标类别数
-    parser.add_argument('--num-classes', type=int, default='20', help='number of classes')
+    parser.add_argument('--num-classes', type=int, default='5', help='number of classes')
 
     # 数据集的根目录(VOCdevkit)
-    parser.add_argument('--data-path', default='/data/', help='dataset root')
+    parser.add_argument('--data-path', default='./', help='dataset root')
 
     # 训练好的权重文件
-    parser.add_argument('--weights-path', default='./save_weights/model.pth', type=str, help='training weights')
+    parser.add_argument('--weights-path', default='./save_weights3/resNetFpn-model-108.pth', type=str, help='training weights')
 
     # batch size
     parser.add_argument('--batch_size', default=1, type=int, metavar='N',
